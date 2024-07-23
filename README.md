@@ -27,5 +27,7 @@ The requirements fulfilled in the project are:
                                 
                         3. CTRL-D It logs us out of our shell, without having any effect on the
                         actual terminal.
+                        
 code compilation: g++ new_shell.cpp -o my_shell -lreadline
+
 code execution: ./my_shell
