@@ -1,7 +1,7 @@
 # Posix_Shell
 This project implements a user-defined interactive Posix based shell program using cpp
 
-The requiremnets fulfilled in the project are:
+The requirements fulfilled in the project are:
 
     display prompt
     
